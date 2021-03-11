@@ -26,5 +26,6 @@ class HomeController extends Controller
     public function index()
     {
         return UserResource::collection(User::all());
+        return view('home');
     }
 }
