@@ -19,5 +19,8 @@
         "popper.js": "^1.12",
         "sass": "^1.32.8",
         "vue": "^2.5.7"
+    },
+    "dependencies": {
+        "vue-chat-scroll": "^1.4.0"
     }
 }

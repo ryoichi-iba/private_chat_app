@@ -6,6 +6,7 @@
                     <div class="card-header">Private chat</div>
                     <ul class="list-group">
                         <li class="list-group-item">test name</li>
+                       
                     </ul>
                 </div>
             </div>
